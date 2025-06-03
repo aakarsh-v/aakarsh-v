@@ -1,4 +1,5 @@
 # 💫 About Me:
+<img src="https://media1.tenor.com/m/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="100%" alt="80s Hacker Neon GIF" />
 Hey visitor! I am Aakarsh, a backend developer. I work mostly on nodeJS and expressJS with<br>mongoDB as my database.<br>I am currently working on MERN stack projects and learning new stuff as I go on.<br>Want to build something together, let us connect! <br>
 
 
