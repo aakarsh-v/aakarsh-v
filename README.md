@@ -1,6 +1,20 @@
 # 💫 About Me:
-<img src="https://media1.tenor.com/m/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="100%" alt="80s Hacker Neon GIF" />
-Hey visitor! I am Aakarsh, a backend developer. I work mostly on nodeJS and expressJS with<br>mongoDB as my database.<br>I am currently working on MERN stack projects and learning new stuff as I go on.<br>Want to build something together, let us connect! <br>
+<table>
+  <tr>
+    <td>
+      <img src="https://media1.tenor.com/m/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="300px" />
+    </td>
+    <td>
+      <h3>Hey visitor! 👋 I'm Aakarsh</h3>
+      <p>
+        I am a <b>backend developer</b> working mainly with <code>Node.js</code> and <code>Express.js</code> using <code>MongoDB</code>.<br>
+        Currently, building <b>MERN stack</b> projects and learning new things.<br><br>
+        🚀 Want to collaborate?<br>Let's connect!
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 
 ## 🌐 Socials:
@@ -17,3 +31,5 @@ Hey visitor! I am Aakarsh, a backend developer. I work mostly on nodeJS and expr
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aakarsh-v/aakarsh-v/output/pacman-contribution-graph.svg">
 </picture>
 
+# 🪈🦚राधे राधे🦚 🪈
+<img src="https://media1.tenor.com/m/7c4jH02ZQhcAAAAC/brr.gif" width="40%" alt="80s Hacker Neon GIF" />
